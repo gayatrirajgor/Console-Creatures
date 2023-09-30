@@ -9,6 +9,7 @@ namespace ConsoleCreatures
       // This will explain to the console what to write - in this case a ghost 
       Console.WriteLine(" .-.");
       Console.WriteLine("(o o)");    
+      Console.WriteLine("| O |");    
     }
   }
 }
